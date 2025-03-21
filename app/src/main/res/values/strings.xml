@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Courses App</string>
+    <string name="filter_courses">Filter courses</string>
+</resources>
